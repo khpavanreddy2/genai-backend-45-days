@@ -1,0 +1,5 @@
+sentance =input("Give a Sentence: ")
+print(sentance.upper())
+print(sentance.lower())
+print(sentance.replace(" ","_"))
+print(sentance.strip())
