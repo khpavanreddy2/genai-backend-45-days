@@ -27,7 +27,7 @@ To become an industry-ready **Junior GenAI Engineer / AI Application Developer**
 - [x] Day 02 – Operators and Conditions
 - [x] Day 03 – Loops and Problem Solving
 - [x] Day 04 – Python Strings
-- [ ] Day 05 – Lists, Tuples, Sets and Dictionaries
+- [x] Day 05 – Lists, Tuples, Sets and Dictionaries
 - [ ] Day 06 – Functions
 - [ ] Day 07 – Object-Oriented Programming
 - [ ] Day 08 – Exceptions, Modules and File Handling
